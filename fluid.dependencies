@@ -1,0 +1,10 @@
+[
+ {
+   "repository": "kernel_xiaomi_onclite",
+   "target_path": "https://github.com/DerpFest-Devices/kernel_xiaomi_onclite"
+ },
+ {
+   "repository": "vendor_xiaomi_onclite",
+   "target_path": "https://github.com/DerpFest-Devices/vendor_xiaomi_onclite"
+ }
+]
